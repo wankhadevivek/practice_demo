@@ -1,1 +1,3 @@
-print('hello')
+v = [15,23,6,5,8,9,7,2,6,3]
+v.sort()
+print(v)
